@@ -3,9 +3,9 @@
 - Mostly on Github to steal good looking Dotfiles for whatever WM im using at the time 🕵🏽
 
 ## Tech
-* Dockerized Debian Server with Traefik, Collabora and Nextcloud  🚢
 * Making Games in Godot 👾
 * Learning LUA for AwesomeWM 🔲
+* Running my stuff on a dockerized Debian server  🚢
 
 ## Contact
 - Email to the left 💌

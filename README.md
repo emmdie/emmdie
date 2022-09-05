@@ -8,5 +8,5 @@
 * Running my stuff on a dockerized Debian server  🚢
 
 ## Contact
-- Email to the left 💌
+- emmanmuel.diehl@ifsr.de 💌
 - 50% chance to find me in the student council office or cafe of the CS faculty😋

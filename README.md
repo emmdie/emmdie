@@ -4,7 +4,6 @@
 
 ## Tech
 * Making Games in Godot 👾
-* Learning LUA for AwesomeWM 🔲
 * Running my stuff on a dockerized Debian server  🚢
 
 ## Contact

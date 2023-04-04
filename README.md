@@ -1,10 +1,7 @@
 ## About me
 - Doing my B.S. in Computer Science in Dresden 📍
 - Mostly on Github to steal good looking Dotfiles for whatever WM im using at the time 🕵🏽
-
-## Tech
-* Making Games in Godot 👾
-* Running my stuff on a dockerized Debian server  🚢
+- * Making Games in Godot 👾
 
 ## Contact
 - emmanuel.diehl@ifsr.de 💌

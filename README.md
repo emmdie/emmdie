@@ -1,5 +1,4 @@
 ## About me
-- Doing my B.S. in Computer Science in Dresden 📍
 - On Github to steal good looking Dotfiles 🕵🏽
 - Making Games in Godot 👾
 

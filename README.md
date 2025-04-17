@@ -1,4 +1,5 @@
 ## About me
+- Developer of [Hand of Hexes](https://store.steampowered.com/app/3238220/Hand_of_Hexes/)
 - On Github to steal good looking Dotfiles 🕵🏽
 - Making Games in Godot 👾
 

@@ -5,4 +5,4 @@
 
 ## Contact
 - emmanuel.diehl@ifsr.de 💌
-- 50% chance to find me in the student council office or cafe of the CS faculty @tudresden 😋
+- 50% chance to find me in the cafe of the CS faculty @tudresden 😋

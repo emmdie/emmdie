@@ -1,8 +1,10 @@
 ## About me
-- Developer of [Hand of Hexes](https://store.steampowered.com/app/3238220/Hand_of_Hexes/)
-- On Github to steal good looking Dotfiles 🕵🏽
-- Making Games in Godot 👾
+- Developer of [Hand of Hexes](https://store.steampowered.com/app/3238220/Hand_of_Hexes/), a textless tower defense game with handcrafted art
+- I spend more time that I would like to admit on making my system as [pretty and tuned](https://github.com/emmdie/MangoDotfiles) as possible
+
+## Projects
+- Built a [Transformer based search engine](https://github.com/emmdie/IR_Praktikum/) focused on high diversity of results for homonym queries
 
 ## Contact
 - emmanuel.diehl@ifsr.de 💌
-- 50% chance to find me in the cafe of the CS faculty @tudresden 😋
+- 50% chance to randomly find me in the cafe of the CS faculty @tudresden 😋

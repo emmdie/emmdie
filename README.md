@@ -4,6 +4,7 @@
 
 ## Projects
 - Built a [Transformer based search engine](https://github.com/emmdie/IR_Praktikum/) focused on high diversity of results for homonym queries
+- Participated in 8+ Gamejams, making video games in a brief time frame. You can find most of my projects on [itch](https://emmdie.itch.io/)
 
 ## Contact
 - emmanuel.diehl@ifsr.de 💌

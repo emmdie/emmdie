@@ -1,5 +1,5 @@
 ## Hello 👋
-The main things you can find here, are my extensive config files to make my setup [pretty and mango-flavoured](https://github.com/emmdie/MangoDotfiles)
+The main things you can find here, are my extensive config files to make my setup [pretty and mango-flavoured](https://github.com/emmdie/MangoDotfiles).  
 I also built a [Transformer based search engine](https://github.com/emmdie/IR_Praktikum/) focused on high diversity of results for homonym queries
 
 ### Games
